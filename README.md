@@ -54,6 +54,7 @@
 ![Data Structures](https://img.shields.io/badge/Data_Structures-blue)
 ![Databases](https://img.shields.io/badge/Databases-success)
 ![ERD](https://img.shields.io/badge/ERD-lightgrey)
+![Networking](https://img.shields.io/badge/Networking-00AABB?style=flat&logo=internetexplorer&logoColor=white)
 
 ---
 
