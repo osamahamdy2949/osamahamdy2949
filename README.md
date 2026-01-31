@@ -17,6 +17,14 @@
 - 🚀 Always learning and improving my engineering skills
 - ☕ Debugging with coffee & good music
 
+  ## 📚 My Learning Journey
+
+- 🏁 Started learning programming and backend development: **2024**
+- 🗺️ Followed the structured roadmap by **Dr. Mohamed Abu Hadhoud** to build strong fundamentals
+- 💻 Implemented **multiple projects** throughout the learning path to practice real-world scenarios
+- 📂 Recently started using **GitHub** to showcase my projects and track progress
+- 💡 Focused on mastering **.NET, C#, SQL, REST APIs, OOP, and Clean Code**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=OsamaHamdy&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
