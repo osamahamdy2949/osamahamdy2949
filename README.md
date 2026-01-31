@@ -68,22 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub contribution stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=osamahamdy2949&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="48%" />
-
-<!-- Top languages used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamahamdy2949&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-
-<!-- GitHub streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahamdy2949&theme=tokyonight&hide_border=false" width="70%" />
-
-</div>
-
-
 ## 🤝 Contact Me
 
 - 📧 Email: **osama.hamdy2949@gmail.com**
