@@ -25,8 +25,6 @@
 - 📂 Recently started using **GitHub** to showcase my projects and track progress
 - 💡 Focused on mastering **.NET, C#, SQL, REST APIs, OOP, and Clean Code**
 
-![Profile Views](https://komarev.com/ghpvc/?username=OsamaHamdy&style=flat&color=orange&label=PROFILE+VIEWS)
-
 ---
 
 ## 🛠️ Tech Stack
