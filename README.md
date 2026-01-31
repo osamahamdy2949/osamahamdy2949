@@ -70,13 +70,22 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaHamdy&theme=tokyonight" width="48%" />
+<!-- عدد الكوميتس ولغات البرمجة -->
+<img src="https://github-readme-stats.vercel.app/api?username=OsamaHamdy&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaHamdy&theme=tokyo-night" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaHamdy&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 
 </div>
+
+<!-- Optional Streak -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaHamdy&theme=tokyonight" width="70%">
+</div>
+
 
 ---
 
