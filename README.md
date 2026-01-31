@@ -23,7 +23,7 @@
 - 🗺️ Followed the structured roadmap by **Dr. Mohamed Abu Hadhoud** to build strong fundamentals
 - 💻 Implemented **multiple projects** throughout the learning path to practice real-world scenarios
 - 🎓 Enrolled in **Advanced Diploma in Computer Science** at **Cairo University**
-- 💼 Joined **Back-End .NET Diploma** with **Root Academy** to specialize in backend development
+- 💼 Joined **Back-End .NET Diploma** with **Route Academy** to specialize in backend development
 - 📂 Recently started using **GitHub** to showcase my projects and track progress
 - 💡 Focused on mastering **.NET, C#, SQL, REST APIs, OOP, and Clean Code**
   
