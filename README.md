@@ -70,24 +70,19 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<!-- عدد الكوميتس ولغات البرمجة -->
-<img src="https://github-readme-stats.vercel.app/api?username=OsamaHamdy&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+<!-- GitHub contribution stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=OsamaHamdy&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="48%" />
 
+<!-- Top languages used -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaHamdy&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 
+<!-- GitHub streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaHamdy&theme=tokyonight&hide_border=false" width="70%" />
+
 </div>
 
-<!-- Optional Streak -->
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaHamdy&theme=tokyonight" width="70%">
-</div>
-
-
----
 
 ## 🤝 Contact Me
 
