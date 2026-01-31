@@ -1,9 +1,20 @@
-<div align="center">
+<div align="center" width="50">
 
-<h1>Hi 👋, I'm Osama Hamdy</h1>
-<h3>Back-End .NET Developer</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" />
+<h1>Hi 👋, I'm Osama Hamdy Kamal</h1>
+<h3>Backend Developer | .NET | C#</h3>
+
+<p>
+- 💻 Back-End Developer specialized in **.NET / ASP.NET Core**
+- 🧠 Interested in **Clean Architecture, Design Patterns, Performance**
+- 🗄️ Strong background in **Databases & APIs**
+- 🚀 Always learning and improving my engineering skills
+- ☕ Debugging with coffee
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=OsamaHamdy&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -11,52 +22,65 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Back-End Developer specialized in **.NET / ASP.NET Core**
-- 🧠 Interested in **Clean Architecture, Design Patterns, Performance**
-- 🗄️ Strong background in **Databases & APIs**
-- 🚀 Always learning and improving my engineering skills
-- ☕ Debugging with coffee & good music
+- 💼 Backend Developer specialized in **.NET & C#**
+- 🧠 Solid understanding of **OOP, Data Structures & Algorithms**
+- 🗄️ Experienced in **SQL Server & Database Design**
+- 🌐 Building **RESTful APIs**
+- 📚 Continuous learner with strong CS fundamentals
+- 🎯 Aspiring Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Back-End
+### 🔹 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat)
+![REST API](https://img.shields.io/badge/REST-API-orange)
 
 ### 🔹 Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### 🔹 Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+### 🔹 Programming Fundamentals
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-important)
+![Data Structures](https://img.shields.io/badge/Data_Structures-blue)
+
+### 🔹 Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧩 Code Philosophy
+## 📌 Currently Working On
 
-```csharp
-public class OsamaHamdy
-{
-    public string Role => "Back-End .NET Developer";
+- 🔨 Building backend projects with **ASP.NET Core**
+- 🧪 Applying **Clean Code & SOLID principles**
+- 📖 Improving problem-solving skills
+- 🚀 Preparing for Backend Developer roles
 
-    public string[] Skills =>
-    {
-        "ASP.NET Core",
-        "Web APIs",
-        "Entity Framework Core",
-        "SQL & Databases",
-        "Clean Architecture",
-        "SOLID Principles"
-    };
+---
 
-    public bool LovesCleanCode => true;
-}
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OsamaHamdy&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaHamdy&layout=compact&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+## 🤝 Contact Me
+
+- 📧 Email: **osama.hamdy2949@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/osama-hamdy-053222198**
+- 🧑‍💻 GitHub: **https://github.com/OsamaHamdy**
+
+---
+
+> *“First, solve the problem. Then, write the code.”*
