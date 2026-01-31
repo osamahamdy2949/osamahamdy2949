@@ -55,6 +55,7 @@
 ![Databases](https://img.shields.io/badge/Databases-success)
 ![ERD](https://img.shields.io/badge/ERD-lightgrey)
 ![Networking](https://img.shields.io/badge/Networking-00AABB?style=flat&logo=internetexplorer&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FF6600?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
