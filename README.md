@@ -93,7 +93,7 @@
 
 - 📧 Email: **osama.hamdy2949@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/osama-hamdy-053222198**
-- 🧑‍💻 GitHub: **https://github.com/OsamaHamdy**
+- 🧑‍💻 GitHub: **https://github.com/osamahamdy2949**
 
 ---
 
