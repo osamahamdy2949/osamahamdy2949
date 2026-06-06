@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h1>Hi 👋, I'm Osama Hamdy Kamal</h1>
+<h1>Hi 👋, I'm Osama Hamdy</h1>
 <h3>Backend Developer | .NET | C#</h3>
 
 </div>
