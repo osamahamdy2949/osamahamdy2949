@@ -42,7 +42,6 @@
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
 ![Security](https://img.shields.io/badge/Security-Red?style=flat)
-![Identity](https://img.shields.io/badge/Identity-.NET?style=flat&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Orange?style=flat)
 ![Caching](https://img.shields.io/badge/Caching-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
